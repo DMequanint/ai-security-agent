@@ -27,7 +27,6 @@ Pydantic Reasoning Engine
 ↓
 Local LLM (Ollama)
 
-
 ## Backend
 
 ```bash
