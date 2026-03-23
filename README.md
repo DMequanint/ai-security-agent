@@ -18,7 +18,7 @@ A fullstack AI security monitoring system that simulates a Security Operations C
 - Streaming: HTTP streaming (chunked responses)
 
 ## Architecture
-
+`
 Next.js Dashboard
 ↓
 FastAPI Agent API
@@ -26,7 +26,7 @@ FastAPI Agent API
 Pydantic Reasoning Engine
 ↓
 Local LLM (Ollama)
-
+`
 ## Backend
 
 ```bash
